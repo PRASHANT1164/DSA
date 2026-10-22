@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PRASHANT1164/DSA/tree/master/0001-two-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRASHANT1164/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRASHANT1164/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PRASHANT1164/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
