@@ -1,0 +1,62 @@
+class Solution {
+    public int majorityElement(int[] nums) {
+
+
+        int cnt = 0;
+        int el = 0;
+
+        // Phase 1: Find the candidate
+        for (int i = 0; i < nums.length; i++) {
+
+            if (cnt == 0) {
+                el = nums[i];
+                cnt = 1;
+            }
+            else if (nums[i] == el) {
+                cnt++;
+            }
+            else {
+                cnt--;
+            }
+        }
+
+        // Phase 2: Verify the candidate
+        int cnt1 = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == el) {
+                cnt1++;
+            }
+        }
+
+        if (cnt1 > nums.length / 2) {
+            return el;
+        }
+
+        return -1;
+        // BRUTE FORCE APPROACH
+        //   int n=nums.length;
+        
+        // for(int i=0;i<n;i++){
+
+        //     int count=0;
+
+        //     for(int j=0;j<n;j++){
+
+        //         if(nums[i]==nums[j]){
+        //             count ++;
+        //         }
+        //     }
+
+        //     if(count>(n/2)){
+
+        //         return nums[i];
+        //     }
+        // }
+
+        // return -1;
+
+
+        
+    }
+}
