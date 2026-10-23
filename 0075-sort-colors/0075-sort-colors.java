@@ -16,24 +16,22 @@ class Solution {
                 twoCount++;
             }
         }
-        // to moniter the current index in the array so as to override it
-        int j=0;
+       
+      
+// Fill zeros
+for (int i = 0; i < zeroCount; i++) {
+    nums[i] = 0;
+}
 
-        for(int i=0 ;i<zeroCount;i++){
-            nums[i]=0;
-            j++;
+// Fill ones
+for (int i = zeroCount; i < zeroCount + oneCount; i++) {
+    nums[i] = 1;
+}
 
-        }
-         for(int i=0 ;i<oneCount;i++){
-            nums[j]=1;
-            j++;
-
-        }
-         for(int i=0 ;i<twoCount;i++){
-            nums[j]=2;
-            j++;
-
-        }
+// Fill twos
+for (int i = zeroCount + oneCount; i < zeroCount + oneCount + twoCount; i++) {
+    nums[i] = 2;
+}
 
         
         
