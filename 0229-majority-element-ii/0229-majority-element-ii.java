@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-
+        //BRUTE FORCE METHOD
         List<Integer> list=new ArrayList<>();
 
         for(int i =0;i<nums.length;i++){
