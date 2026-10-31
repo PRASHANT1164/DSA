@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PRASHANT1164/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PRASHANT1164/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRASHANT1164/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRASHANT1164/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT1164/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PRASHANT1164/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRASHANT1164/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRASHANT1164/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,9 +56,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
