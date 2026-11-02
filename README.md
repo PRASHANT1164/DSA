@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRASHANT1164/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/PRASHANT1164/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRASHANT1164/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRASHANT1164/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
