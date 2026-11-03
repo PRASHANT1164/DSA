@@ -8,24 +8,21 @@ class Solution {
 
         while (start < end) {
 
-            if (!Character.isLetterOrDigit(s1.charAt(start))) {
-                start++;
-                continue;
-            }
-
-            if (!Character.isLetterOrDigit(s1.charAt(end))) {
-                end--;
-                continue;
-            }
-
-            if (s1.charAt(start) != s1.charAt(end)) {
-                return false;
-            }
-
-            start++;
-            end--;
+    if (!Character.isLetterOrDigit(s1.charAt(start))) {
+        start++;
+    }
+    else if (!Character.isLetterOrDigit(s1.charAt(end))) {
+        end--;
+    }
+    else {
+        if (s1.charAt(start) != s1.charAt(end)) {
+            return false;
         }
 
+        start++;
+        end--;
+    }
+}
         return true;
     }
 }
