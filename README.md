@@ -68,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
+| [2129-capitalize-the-title](https://github.com/PRASHANT1164/DSA/tree/master/2129-capitalize-the-title) |
 <!---LeetCode Topics End-->
