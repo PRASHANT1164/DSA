@@ -2,9 +2,25 @@
 class Solution {
     public String capitalizeTitle(String title) {
 
-        StringBuilder str = new StringBuilder(title);
+        // SIMPLE WAY 
 
-        int start = 0;
+        
+
+      StringBuilder str = new StringBuilder(title.toLowerCase());
+      /*
+       StringBuilder str = new StringBuilder(title.toLowerCase());
+
+         for(int i=0;i<str.length();i++){
+
+            if(i==0||str.charAt(i-1)==32){
+                str.setCharAt(i,Character.toUpperCase(str.charAt(i)));
+            }
+        }
+        
+
+        return str.toString();*/
+
+       int start = 0;
 
         for (int i = 0; i <= str.length(); i++) {
 
