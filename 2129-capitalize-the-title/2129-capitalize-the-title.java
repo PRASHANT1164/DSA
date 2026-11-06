@@ -6,7 +6,7 @@ class Solution {
 
         
 
-      StringBuilder str = new StringBuilder(title.toLowerCase());
+      StringBuilder str = new StringBuilder(title);
       /*
        StringBuilder str = new StringBuilder(title.toLowerCase());
 
