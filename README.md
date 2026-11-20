@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PRASHANT1164/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRASHANT1164/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/PRASHANT1164/DSA/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRASHANT1164/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -68,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/PRASHANT1164/DSA/tree/master/0443-string-compression) |
 | [2129-capitalize-the-title](https://github.com/PRASHANT1164/DSA/tree/master/2129-capitalize-the-title) |
 <!---LeetCode Topics End-->
