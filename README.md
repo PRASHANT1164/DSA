@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PRASHANT1164/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PRASHANT1164/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/PRASHANT1164/DSA/tree/master/0443-string-compression) |
 | [2129-capitalize-the-title](https://github.com/PRASHANT1164/DSA/tree/master/2129-capitalize-the-title) |
 <!---LeetCode Topics End-->
