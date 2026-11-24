@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -73,10 +76,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/PRASHANT1164/DSA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PRASHANT1164/DSA/tree/master/0796-rotate-string) |
 | [2129-capitalize-the-title](https://github.com/PRASHANT1164/DSA/tree/master/2129-capitalize-the-title) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PRASHANT1164/DSA/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
