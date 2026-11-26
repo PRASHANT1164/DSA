@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT1164/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PRASHANT1164/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/PRASHANT1164/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PRASHANT1164/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PRASHANT1164/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/PRASHANT1164/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRASHANT1164/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/PRASHANT1164/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
