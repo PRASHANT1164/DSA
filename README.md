@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PRASHANT1164/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PRASHANT1164/DSA/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/PRASHANT1164/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/PRASHANT1164/DSA/tree/master/2129-capitalize-the-title) |
 ## String Matching
 |  |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PRASHANT1164/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/PRASHANT1164/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/PRASHANT1164/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
